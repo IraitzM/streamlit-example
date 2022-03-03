@@ -1,6 +1,7 @@
-# Welcome to Streamlit!
+# Simple Streamlit app
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+This is a simple example in order to test Streamlit. Ypu can locally run it by invoking:
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+```
+streamlit run streamlit_app.py
+```
